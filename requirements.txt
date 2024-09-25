@@ -1,0 +1,17 @@
+ipykernel
+pandas
+numpy
+scipy 
+matplotlib 
+scikit-learn 
+xgboost 
+deepchem 
+mordred 
+pycm
+rdkit
+torch
+e3nn
+mace
+pytorch-lightning 
+wandb 
+ogb
